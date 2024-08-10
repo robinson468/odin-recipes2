@@ -1,0 +1,12 @@
+body {
+    background-color: #ffaabb;
+}
+
+* {
+    color: #ffffff;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 60px;
+}
